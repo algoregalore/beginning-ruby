@@ -13,7 +13,7 @@ class Cup
   end
 
   def sip (amount=10)
-    puts "just took a sip"
+    puts "just   took a sip"
 
     if amount < 0
       puts "ew backwash"
